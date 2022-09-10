@@ -1,1 +1,1 @@
-# IntroJava
+# Intro to Programming (Java)
